@@ -64,13 +64,4 @@ Architected a Type 1 Diabetes stress-management iOS app (**Swift / iOS / telemet
 
 ---
 
-## Activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sndsh404&show_icons=true&count_private=true&hide_title=true&hide_rank=false&theme=default" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sndsh404&hide_border=true" height="165" alt="GitHub streak" />
-</p>
-
----
-
 <sub>Most of my work is in private repos. If you're a recruiter or collaborator and want a closer look, reach out; happy to talk further.</sub>
