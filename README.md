@@ -8,7 +8,7 @@
 
 ## Current
 
-**[CareInsight](https://www.linkedin.com/in/shaurya-baruah/)** — *Software Engineer* · May 2026–Present
+**[CareInsight](https://careinsight.com/)** — *Software Engineer* · May 2026–Present
 Sole engineer building an end-to-end fraud, waste & abuse (FWA) detection agent for provider performance analytics at a high-growth healthcare startup. Mapping the claims landscape with **Neo4j GDS** graph algorithms and **Cypher**, and built a **Python** engine that scores provider risk and surfaces improper billing patterns. *Repo private — results to share by end of summer.*
 
 **Remira** — *Co-Founder & CTO* · Feb 2026–Present · [App Store ↗](https://apps.apple.com/us/app/remira-t1d/id6759989867)
