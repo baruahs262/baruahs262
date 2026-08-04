@@ -12,7 +12,7 @@
 Sole engineer building an end-to-end fraud, waste & abuse (FWA) detection agent for provider performance analytics at a high-growth healthcare startup. Mapping the claims landscape with **Neo4j GDS** graph algorithms and **Cypher**, and built a **Python** engine that scores provider risk and surfaces improper billing patterns. *Repo private — results to share by end of summer.*
 
 **Remira** — *Co-Founder & CTO* · Feb 2026–Present · [App Store ↗](https://apps.apple.com/us/app/remira-t1d/id6759989867)
-Architected a Type 1 Diabetes stress-management iOS app (**Swift / iOS / telemetry instrumentation**) built through AI-assisted workflows. Scaled **0 → 500 downloads**, 165+ weekly actives, 50 daily actives at ~30% WAU→DAU stickiness and 15% weekly retention. Drove real outcomes: users' A1C **8.1 → 6.5** and **+55% time-in-range**. Led product and 5 summer interns; grew the channel to 2,300+ followers. *Repo private.*
+Architected a Type 1 Diabetes stress-management iOS app (**Swift / iOS / telemetry instrumentation**) built through AI-assisted workflows. Scaled **0 → 500 downloads**, 165+ weekly actives, 50 daily actives at ~30% WAU→DAU stickiness and 15% weekly retention. Drove real outcomes: users' A1C **8.1 → 6.5** and **+55% time-in-range**. Led product and 5 summer interns; grew the channel to 5000+ followers. [Website ↗](https://remira-ai.com/) *Repo private.*
 
 ---
 
