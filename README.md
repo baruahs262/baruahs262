@@ -6,13 +6,13 @@
 
 ---
 
-## Current
+## Recent
 
-**[CareInsight](https://careinsight.com/)** — *Software Engineer* · May 2026–Present
-Sole engineer building an end-to-end fraud, waste & abuse (FWA) detection agent for provider performance analytics at a high-growth healthcare startup. Mapping the claims landscape with **Neo4j GDS** graph algorithms and **Cypher**, and built a **Python** engine that scores provider risk and surfaces improper billing patterns. *Repo private — results to share by end of summer.*
+**[CareInsight](https://careinsight.com/)** — *Software Engineering Intern* · May–Aug 2026
+Sole engineer on an end-to-end fraud, waste & abuse (FWA) detection engine for provider performance analytics at a healthcare startup. Modeled the claims landscape with **Neo4j GDS** graph algorithms and **Cypher**, and built a **Python** engine that scores provider risk and surfaces improper billing patterns. Raised detector precision **71% → 89%** using unit-tested gold datasets, and shipped a React dashboard analysts use to review flagged claims. *Repo private.*
 
 **Remira** — *Co-Founder & CTO* · Feb 2026–Present · [App Store ↗](https://apps.apple.com/us/app/remira-t1d/id6759989867)
-Architected a Type 1 Diabetes stress-management iOS app (**Swift / iOS / telemetry instrumentation**) built through AI-assisted workflows. Scaled **0 → 500 downloads**, 165+ weekly actives, 50 daily actives at ~30% WAU→DAU stickiness and 15% weekly retention. Drove real outcomes: users' A1C **8.1 → 6.5** and **+55% time-in-range**. Led product and 5 summer interns; grew the channel to 5000+ followers. [Website ↗](https://remira-ai.com/) *Repo private.*
+Architected a Type 1 Diabetes stress-management iOS app (**Swift / iOS / telemetry instrumentation**) built through AI-assisted workflows. Scaled **0 → 1000 downloads**, 250+ weekly actives, 100 daily actives at ~30% WAU→DAU stickiness and 15% weekly retention. Drove real outcomes: users' A1C **8.1 → 6.5** and **+55% time-in-range**. Led product and 5 summer interns; grew the channel to 5000+ followers. [Website ↗](https://remira-ai.com/) *Repo private.*
 
 ---
 
@@ -25,8 +25,6 @@ Architected a Type 1 Diabetes stress-management iOS app (**Swift / iOS / telemet
 ---
 
 ## Beyond code
-
-**[Nexus Podcast](https://www.youtube.com/@shauryabaruah1074)** — Founder & host of a 150+ episode long-form show on tech, entrepreneurship, and discipline. Guests include a Navy SEAL, an Olympic athlete, a national wrestling champion, professors, and AI-company CTOs. Top episode: 23K views.
 
 **Published author** — *[App Development Using iOS iCloud: Incorporating CloudKit with Swift in Xcode](https://books.apple.com/us/book/app-development-using-ios-icloud/id6444774322)* (1st & 2nd editions).
 
