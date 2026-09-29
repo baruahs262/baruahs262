@@ -16,6 +16,13 @@ Architected a Type 1 Diabetes stress-management iOS app (**Swift / iOS / telemet
 
 ---
 
+## Open source
+
+**[crt](https://github.com/baruahs262/container_runtime)** — *Container runtime from scratch* · **Go** (stdlib only) · Linux
+Isolates processes with Linux namespaces (mount, UTS, IPC, PID, cgroup, net) and confines them with cgroup v1/v2 CPU, memory, and PID limits. Runs workloads on overlayfs stacked from content-addressed image layers. Pulls from OCI registries with concurrent, digest-verified downloads. Builds images from a Dockerfile-style spec with layer caching. Per-container monitoring goroutines track CPU, memory, and OOM kills. Benchmarked at **~300 containers/s** on 4 vCPUs, **~8 ms** serial lifecycle, CPU quotas accurate to **within 0.5%**.
+
+---
+
 ## Selected experience
 
 - **Integreon** — *SWE Intern* (Summer 2025): Shipped a Microsoft Word add-in + Copilot agent automating legal clause review (NDAs/MSAs). Designed prompt flows and fallback logic for GPT-powered review, reducing hallucinations and boosting accuracy; built Power BI dashboards and SQL data models.
